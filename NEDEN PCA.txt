@@ -1,0 +1,32 @@
+
+Bileşen Sayısını azaltmadan pca uygulamak:!!!
+verinin yüksek varyansa sahip yönleri ön plana çıkartılır ve düşük varyansa sahip yönler yeniden düzenlenir.
+Bu durumda, veri kümesindeki tüm bileşenler korunur, ancak düşük varyansa sahip bileşenler(gürültü) daha az önemli hale gelir ve verinin önemli yapıları daha belirgin hale gelir, bu sayede distance matrixi daha belirgin ve daha anlamlı mesafelerden dolayı daha iyi hesaplanır ve sonuç olarak iyi sonuç alınır
+
+veri kaybı olmadığının kanıtı----Varyansın Korunması:
+Orijinal veri ve PCA sonrası varyansın değerleri arasındaki farkın çok küçük olması, PCA'nın verinin önemli özelliklerini büyük ölçüde koruduğunu gösterir. Hesapladığınız toplam varyans değerleri:
+
+Total Original Variance: 0.6560654640197754
+Total PCA Variance: 0.6560654044151306
+
+Variance as a Measure of Information:
+her component total varyansta değer tutar. total varyans değişmemesi veri kaybı olmadığını kanıtlar.
+
+PCA Transformation:
+pca ile veri yüksek varyans componentslarına göre yeni uzayda temsil edilir bu da daha anlamlı ve belirgin bi uzay temsili demektir.
+
+veriyi aynı boyutta tutarken daha anlamlı hale getirmesinin sebebi bu dönüşümün verinin temel yapısını daha iyi yansıtması ve gereksiz gürültülerin önemini azaltmasındandır-
+
+SONUÇ: Aynı bileşen sayısına (768) sahip olsak bile, PCA, veriyi daha anlamlı ve daha iyi temsil edilen bir uzaya dönüştürdüğü için daha iyi performans gösterir. Distance matrixi daha belirgin ve anlamlı mesafelerden dolayı daha iyi hesaplanır ve sonuç olarak iyi sonuç alınır
+
+
+
+1 txt'nin- sadece az kısmı çıkarılmış haliyle tekrar similarity score kontrol et
+1 tane ile random 100 tanenin similartiyc check yap ve pcalı pcasiz olc bunu
+
+vektör databaseler*-
+barkod lookup api araştır
+fakat verilerin her özelliği yok-
+
+
+

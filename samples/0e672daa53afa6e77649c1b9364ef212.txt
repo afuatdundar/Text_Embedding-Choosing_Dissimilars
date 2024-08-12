@@ -1,0 +1,34 @@
+AirPods 2 300
+Pencil 2 300
+
+Mlxw3 50 / mlxy3 50 / mly13 30
+Mneh3 30
+Mrx43 20
+Mrx53 10
+
+
+Watch 
+9 41 star band SM 150 
+9 41 silver band SM 100
+9 45 mid ML 200
+9 45 Star ML 100
+9 45 Silver ML 70
+
+SE 2 40 Silver SM 200
+SE 2 40 silver loop 100
+SE 2 40 star SM 500
+SE 2 40 star loop 200
+SE 2 44 Silver SM 100 
+SE 2 44 Silver loop 50
+
+
+13 128 green 70 / mid 70 / star 50/ pink 50
+14 128 blue 70 / mid 50 / star 50
+15 128 black 50 / blue 60 / green 30 / pink 60 
+15 256 mix
+15 pro 128 black 50 / blue 40 / nat 60 / 
+15 pro 256 black 150 / blue 50 / 
+15 pro 512 black 30 / blue 20 / silver 20
+15 PRO MAX 256  blue 100 / natural 100 / silver 80
+15 PRO MAX 512 black 50 / blue 50 / nat 50 / silver 50
+15 PRO MAX 1tb black 25 / blue 25 / nat 25 / silver 25

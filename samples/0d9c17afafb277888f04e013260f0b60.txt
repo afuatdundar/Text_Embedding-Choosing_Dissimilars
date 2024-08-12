@@ -1,0 +1,99 @@
+⭕　8/29　PM	in japan	
+		
+iPhone 14 Pro 128GB	Purple	61
+iPhone 14 Pro 128GB	Gold	1
+iPhone 14 Pro 128GB	Black	2
+iPhone 14 Pro 128GB	White	3
+		
+iPhone 14 Pro 256GB	Purple	9
+		
+iPhone 14 Pro 512GB	Black	2
+		
+iPhone 14 Pro Max 256GB	Purple	10
+iPhone 14 Pro Max 256GB	Black	1
+		
+iPhone 14 Pro Max 512GB	Purple	1
+iPhone 14 Pro Max 512GB	Black	2
+		
+iPhone 14 Pro Max 1TB	Purple	1
+		
+iPhone 14 128GB	Black	59
+iPhone 14 128GB	White	40
+iPhone 14 128GB	Blue	        32
+iPhone 14 128GB	Purple	31
+iPhone 14 128GB	Yellow	102
+iPhone 14 128GB	Red	         7
+		
+iPhone 14 256GB	Black	5
+iPhone 14 256GB	White	1
+iPhone 14 256GB	Blue	        1
+iPhone 14 256GB	Purple	3
+		
+iPhone 14 plus 128GB	BK	2
+iPhone 14 plus 128GB	WH	1
+		
+iPhone 14 plus 256GB	BK         	1
+iPhone 14 plus 256GB	Yellow	1
+		
+iPhone 13  128GB	Green	2
+iPhone 13  128GB	Black	6
+iPhone 13  128GB	White	2
+iPhone 13  128GB	Blue	        2
+		
+iPhone 13  256GB	Blue         2
+		
+iPhone 13 Pro 256GB	Green	1
+		
+iPhone 13 Pro Max 128GB	Blue	1
+		
+iPhone 13 mini 128GB	Black	2
+iPhone 13 mini 128GB	Red  	7
+		
+iphone12 64GB	BK	6
+iphone12 64GB	WH	2
+iphone12 64GB	PP	2
+		
+iphone12 128GB	BK	3
+iphone12 128GB	BL	3
+iphone12 128GB	PP	4
+		
+iphone12 256GB	Black	2
+iphone12 256GB	WH      	1
+iphone12 256GB	PP	        3
+		
+2022/iPhoneSE（3rd）64GB	Black	30
+2022/iPhoneSE（3rd）64GB	White	19
+2022/iPhoneSE（3rd）64GB	Red	         1
+		
+2022/iPhoneSE（3rd）128GB	Black	59
+2022/iPhoneSE（3rd）128GB	White	7
+		
+2022/iPhoneSE（3rd）256GB	White	1
+		
+open box actived iPhone 14 Pro 128GB	Black	2
+		
+open box actived iPhone 14 Pro 256GB	Black	2
+		
+open box actived iPhone 14 Pro Max 256GB	Gold	2
+		
+Google Pixel 7a 128GB	Charcoal	24
+Google Pixel 7a 128GB	Snow	34
+Google Pixel 7a 128GB	Sea	        28
+		
+Google Pixel 7 128GB	Lemongrass	21
+Google Pixel 7 128GB	Obsidian	        22
+Google Pixel 7 128GB	Snow	        21
+		
+Google Pixel 7 Pro 128GB	Hazel	1
+		
+Google Pixel6a 128GB 5G	Charcoal	12
+Google Pixel6a 128GB 5G	Chalk	7
+Google Pixel6a 128GB 5G	Sage	1
+		
+open box 14 Plus 128GB	BK	        1
+		
+open box 14 Plus 512GB	YW	        1
+		
+open box 13 mini 512GB	BL	2
+		
+pixel fold	BK	21

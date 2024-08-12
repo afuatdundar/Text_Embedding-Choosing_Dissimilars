@@ -1,0 +1,17 @@
+15pro 256 1135$
+Natural	279
+15pro 512 1330$
+Blue	4
+Black	1
+Natural	16
+15pro 1t 1510$
+iphone 15 PRO 1T natural	1
+15pro max 256 1225$
+Natural	162
+15pro max 512 1390$
+White	1
+Natural	53
+15pro max 1t 1620$
+Natural	85
+Black	5
+White	2

@@ -1,0 +1,29 @@
+WTb
+A54 8/256
+Black
+Purple
+Green
+White Mix 8 Pc 
+
+A53 256
+Black 2
+Blue 2
+White 2
+
+A53 8/128
+Black 2
+Blue 2
+White 2
+
+A34 8/128
+Black 2
+White 2
+
+A34 6/128
+Black 2
+
+A33 128
+Black 2
+PCT 2
+
+Any Spec Dual Sim

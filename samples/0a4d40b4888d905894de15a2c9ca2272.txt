@@ -1,0 +1,7 @@
+Dell Precision 7780 laptop.
+Screen 17.3' 60Hz, 500Nit.
+Intel Core i7-13850HX.
+RAM DDR5 32Gb.
+SSD M2 PCie 4, 1Tb.
+RTX4090 16Gb.
+Battery, 93Wh, 6-cell.

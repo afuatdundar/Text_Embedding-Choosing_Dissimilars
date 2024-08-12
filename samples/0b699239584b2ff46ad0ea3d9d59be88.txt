@@ -1,0 +1,21 @@
+Release 
+15 pro 128 
+Nature 72
+White 6 
+Blue 8 
+Black 16 
+
+15 pro 256 
+Nature 46 
+White 5 
+Blue 5 
+Black 1
+
+15 promax 256Gb 
+Nature 60 
+White 20 
+Blue 40 
+Black 40 
+
+
+To global cellular
